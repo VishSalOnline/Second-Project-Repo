@@ -9,6 +9,7 @@ while userGuess!=randomNumber:
     if userGuess==randomNumber:
         print("You guessed it right.")
     # test 
+    # test2
     else:
         print("You guessed it wrong.")
         if userGuess>=randomNumber:
